@@ -13,11 +13,12 @@ public class JavaVariables {
         char c = 'S';// stores only one character value
         boolean boo = false ;// by default boolean value is false
         System.out.println(boo);
+
         /* adding multiple line comments */
         /*
          single line comments we use //
          all above mentioned as java variables
         */
-
+        // in this I've to create more classes like this to perform this type of things
     }
 }
