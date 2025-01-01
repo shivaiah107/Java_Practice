@@ -17,6 +17,8 @@ public class FileWriterExample {
 
             write.newLine();
             write.write("the way you are improving your career is awesome .....");
+            write.newLine();
+            write.write("try to code lot so that you can make difference to others ");
 
             write.close();
 
