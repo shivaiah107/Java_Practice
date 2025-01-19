@@ -8,6 +8,7 @@ public class ArrayExample {
     public static void main(String[] args) {
         int[] arr = {1,9,3,4,7,6,7,8,9,10,1,2,3,4};
         System.out.println();
+        System.out.println();
 //        for(int i : arr){
 //            System.out.println(i);
 //        }
